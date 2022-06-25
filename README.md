@@ -13,6 +13,7 @@ Hence, I think we should just co-create this list through crowd-sourcing contrib
 ### Discourse Meta
 
 - https://meta.discourse.org - Discourse governance and development
+- https://www.discourse.org/customers - Popular customers of Discourse software
 
 ### Crypto Currencies
 
