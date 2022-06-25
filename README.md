@@ -10,6 +10,10 @@ Hence, I think we should just co-create this list through crowd-sourcing contrib
 
 ## List
 
+### Discourse Meta
+
+- https://meta.discourse.org - Discourse governance and development
+
 ### Crypto Currencies
 
 #### Ethereum
