@@ -29,3 +29,11 @@ Hence, I think we should just co-create this list through crowd-sourcing contrib
 #### Ocean Protocol
 
 - https://port.oceanprotocol.com/ - OceanDAO governance and fund raising 
+
+### Cloud Computing and Open Source Science
+
+- https://discourse.pangeo.io/ - A community for open, reproducible, and scalable science
+- https://discuss.scientific-python.org/ - A place for the Scientific Python community of users and developers to talk
+- https://discourse.jupyter.org/ - A place for Jovyans to share and learn from each other
+- https://dask.discourse.group/ - The Dask community scales Python
+
